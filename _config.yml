@@ -42,12 +42,8 @@ links:
     url: /publications/
   - title: Teaching
     url: /teaching/
-  #- title: Awards
-    url: /awards/
-  #- title: Teams
-    url: /teams/
-  # - title: Notes
-    # url: /notes/
+  - title: Thesises
+    url: /thesises/
   - title: Blogs
     url: /blogs/
 
