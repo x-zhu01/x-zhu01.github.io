@@ -34,7 +34,7 @@ Changchun, China <br>
 <br>
 <hr>
 
-## News and Updates
+## NEWS and UPDATES
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024. Contact me if you have any leads!**<br>
 <hr>
