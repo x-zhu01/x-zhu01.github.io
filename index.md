@@ -14,7 +14,7 @@ I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitae
 
 ## EDUCATION
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024. Contact me if you have any leads!**<br>
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024. Contact me if you have any leads!**<br><br>
 
 **Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies* <br> 
 Heidelberg, Germany <br>
@@ -42,3 +42,5 @@ Changchun, China <br>
 
 <br>
 <hr>
+
+![Desktop View](images/wk.png)
