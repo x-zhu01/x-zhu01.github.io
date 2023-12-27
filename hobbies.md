@@ -4,50 +4,77 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+# <p align="left"> Xudong Zhu (朱旭东) </p>
+Master’s student at the Ruprecht-Karls-Universität Heidelberg<br>
+Born in Shaanxi, China on 18.06.1999<br>
+E-Mail: xudong.zhu@alumni.uni-heidelberg.de<br>
+Tel: +49 15752644390<br>
+Website: https://x-zhu01.github.io/<br>
+<hr>
 
-## Swimming & Surfing
+### EDUCATION
+**Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies*  <br> 
+Heidelberg, Germany <br>
+*M.A. in American Studies, Political Science and History*<br>
+2023 <br>
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+**Jilin University**, *School of International and Public Affairs (SIPA)*<br>
+Changchun, China <br>
+*Bachelor in Law, Diplomacy* <br>
+2021 <br>
+<hr>
 
-## Workshop
+### ACADEMIC ACTIVITIES
+**Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany<br>
+*Teaching assignment: From Washington to Peking: History of the Early Interactions Between the United States and China* <br>
+Summer term, 2023<br>
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+**Seventh Annual Young Scholars Forum on U.S. - China Relations**, Organized by the Carter Center<br>
+*Paper presented: What to Do About the Strategic Challenge? An Analysis of the Background of NATO’s new China Strategy*<br>
+September, 2022<br>
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+**Eberhard Karls Universität Tübingen**, Tübingen, Germany <br>
+*The “International and European Studies” summer school*<br>
+July - August, 2019<br>
 
+**Rutgers, The State University of New Jersey**, New Brunswick, NJ <br>
+*Student summer program at Rutgers University* <br>
+July, 2018 <br>
 
-## Past Hobbies
+**Jilin University**, Changchun, China <br>
+*Field study along the China-North Korea border* <br>
+October, 2017 <br>
+<hr>
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+### INTERNSHIP
+**US-China Perception Monitor**, the Carter Center, remotely <br>
+- Translated articles for the website “US-China Perception Monitor” <br>
+-  Attended academic conferences and wrote summaries <br>
+- Interviewed scholars and wrote reports <br>
 
-## My Cat
+May - August, 2020 <br>
+<hr>
 
-This is my love. Her name is Qbo (Q宝).
+### SERVICE
+Volunteer of the 6th China-Korea Public Diplomacy Forum <br>
+2018 <br>
+Worked as Professor Swaran Singh’s assistant during his visit to Jilin University <br> 
+2018 <br>
+Member of the student union of SIPA, Jilin University <br>
+2018 - 2020 <br>
+Member of the Kung Fu Association, Jilin University <br>
+2017 - 2021 <br>
+<hr>
 
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
+### AWARDS
+The “Excellence Award” of the 16th National Diplomatic Etiquette Competition. <br>
+2018 <br>
+The "Diplomatic Award" of the First Simulated Diplomatic Spokesperson Contest of SIPA, Jilin University. <br>
+2017 <br>
+<hr>
 
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+### SKILLS
+**Professional Skills** <br>
+Microsoft Office, C, C++, SPSS, Social Media Platform Operations <br>
+**Language** <br>
+Chinese (Proficient), English (Proficient), German(Good) <br>
