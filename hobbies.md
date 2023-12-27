@@ -57,24 +57,30 @@ May - August, 2020 <br>
 
 ### SERVICE
 Volunteer of the 6th China-Korea Public Diplomacy Forum <br>
-2018 <br>
+2018
+<br><br>
 Worked as Professor Swaran Singh’s assistant during his visit to Jilin University <br> 
-2018 <br>
+2018
+<br><br>
 Member of the student union of SIPA, Jilin University <br>
-2018 - 2020 <br>
+2018 - 2020
+<br><br>
 Member of the Kung Fu Association, Jilin University <br>
-2017 - 2021 <br>
+2017 - 2021<br>
 <hr>
 
 ### AWARDS
 The “Excellence Award” of the 16th National Diplomatic Etiquette Competition. <br>
-2018 <br>
-The "Diplomatic Award" of the First Simulated Diplomatic Spokesperson Contest of SIPA, Jilin University. <br>
+2018
+<br><br>
+The "Diplomatic Award" of the First Simulated Diplomatic Spokesperson Contest of SIPA, Jilin University.
+<br><br>
 2017 <br>
 <hr>
 
 ### SKILLS
 **Professional Skills** <br>
-Microsoft Office, C, C++, SPSS, Social Media Platform Operations <br>
+Microsoft Office, C, C++, SPSS, Social Media Platform Operations
+<br><br>
 **Language** <br>
 Chinese (Proficient), English (Proficient), German(Good) <br>
