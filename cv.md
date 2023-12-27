@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /cv/index.html
+title: CV
 ---
 
 # Xudong Zhu
