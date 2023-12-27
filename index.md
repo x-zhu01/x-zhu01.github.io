@@ -4,8 +4,6 @@ layout: page
 
 # ABOUT ME
 
-<img src= class="floatpic" width="360" height="480">
-
 Here is **Xudong Zhu(朱旭东)**.
 
 I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitaet Heidelberg.
