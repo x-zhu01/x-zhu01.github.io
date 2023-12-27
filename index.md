@@ -6,7 +6,7 @@ layout: page
 <img src="https://x-zhu01.github.io/1.png" class="floatpic" width="360" height="480">
 Here is **Xudong Zhu(朱旭东)**
 <br>
-I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitaet Heidelberg.
+I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universität Heidelberg.
 <br>
 <hr>
 
