@@ -38,8 +38,10 @@ links:
     url: /
   - title: CV
     url: /cv/
-  - title: Publications&Teaching
+  - title: Publications
     url: /publications/
+  - title: Teaching
+    url: /teaching/
   #- title: Awards
     url: /awards/
   #- title: Teams
