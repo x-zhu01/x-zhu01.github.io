@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# ABOUT ME
+## ABOUT ME
 
-Here is **Xudong Zhu(朱旭东)**.
+Here is **Xudong Zhu(朱旭东)**
 
 I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitaet Heidelberg.
 
