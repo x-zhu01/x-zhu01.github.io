@@ -13,7 +13,7 @@ Website: https://x-zhu01.github.io/<br>
 <hr>
 
 ### EDUCATION
-**Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies*  <br> 
+**Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies (HCA)*  <br> 
 Heidelberg, Germany <br>
 *M.A. in American Studies, Political Science and History*<br>
 2023
