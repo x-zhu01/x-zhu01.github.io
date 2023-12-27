@@ -16,8 +16,8 @@ Website: https://x-zhu01.github.io/<br>
 **Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies*  <br> 
 Heidelberg, Germany <br>
 *M.A. in American Studies, Political Science and History*<br>
-2023 <br>
-
+2023
+<br><br>
 **Jilin University**, *School of International and Public Affairs (SIPA)*<br>
 Changchun, China <br>
 *Bachelor in Law, Diplomacy* <br>
@@ -27,20 +27,20 @@ Changchun, China <br>
 ### ACADEMIC ACTIVITIES
 **Ruprecht-Karls-Universität Heidelberg**, Heidelberg, Germany<br>
 *Teaching assignment: From Washington to Peking: History of the Early Interactions Between the United States and China* <br>
-Summer term, 2023<br>
-
+Summer term, 2023
+<br><br>
 **Seventh Annual Young Scholars Forum on U.S. - China Relations**, Organized by the Carter Center<br>
 *Paper presented: What to Do About the Strategic Challenge? An Analysis of the Background of NATO’s new China Strategy*<br>
-September, 2022<br>
-
+September, 2022
+<br><br>
 **Eberhard Karls Universität Tübingen**, Tübingen, Germany <br>
 *The “International and European Studies” summer school*<br>
-July - August, 2019<br>
-
+July - August, 2019
+<br><br>
 **Rutgers, The State University of New Jersey**, New Brunswick, NJ <br>
 *Student summer program at Rutgers University* <br>
-July, 2018 <br>
-
+July, 2018
+<br><br>
 **Jilin University**, Changchun, China <br>
 *Field study along the China-North Korea border* <br>
 October, 2017 <br>
