@@ -8,7 +8,6 @@ title: CV
 Master’s student at the Ruprecht-Karls-Universität Heidelberg<br>
 Born in Shaanxi, China on 18.06.1999<br>
 E-Mail: xudong.zhu@alumni.uni-heidelberg.de<br>
-Tel: +49 15752644390<br>
 Website: https://x-zhu01.github.io/<br>
 <hr>
 
