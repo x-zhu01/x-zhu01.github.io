@@ -5,18 +5,18 @@ layout: page
 ## ABOUT ME
 
 Here is **Xudong Zhu(朱旭东)**
-
-I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitaet Heidelberg.
-
 <br>
+I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitaet Heidelberg.
+<br>
+<hr>
 
 ## EDUCATION
 
 **Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies* <br> 
 Heidelberg, Germany <br>
 *M.A. in American Studies, Political Science and History*<br>
-2023 <br><br>
-
+2023 
+<br><br>
 **Jilin University**, *School of International and Public Affairs (SIPA)*<br>
 Changchun, China <br>
 *Bachelor in Law, Diplomacy* <br>
