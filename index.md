@@ -26,10 +26,10 @@ Changchun, China <br>
 ## RESEARCH INTERESTS
 
 - Historical Statecraft
-- Realpolitik
+- Realpolitik and Grand Strategy
 - Great Power Competition
 - Sino-US Relations
-- Geopolitics and Grand Strategy
+- Geopolitics
 
 <br>
 <hr>
