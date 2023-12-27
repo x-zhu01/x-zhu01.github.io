@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## ABOUT ME
+## WELCOME!
 <img src="https://x-zhu01.github.io/2.png" class="floatpic" width="360" height="480">
 Here is **Xudong Zhu(朱旭东)**
 <br>
