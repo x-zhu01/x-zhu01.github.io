@@ -12,7 +12,7 @@ I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitae
 
 ## EDUCATION
 
-**Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies* <br> 
+**Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies (HCA)* <br> 
 Heidelberg, Germany <br>
 *M.A. in American Studies, Political Science and History*<br>
 2023 
