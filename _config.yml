@@ -36,15 +36,13 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  #- title: CV
-    url: /cv/
   - title: Publications
     url: /publications/
   #- title: Awards
     url: /awards/
   #- title: Teams
     url: /teams/
-  - title: CV
+  - title: Hobbies
     url: /hobbies/
   # - title: Notes
     # url: /notes/
