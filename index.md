@@ -16,15 +16,15 @@ I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitae
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024. Contact me if you have any leads!**<br>
 
-** Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies*  <br> 
+<p align="left">**Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies*  <br> 
 Heidelberg, Germany <br>
 *M.A. in American Studies, Political Science and History*<br>
-2023 <br>
+2023 <br><br>
 
 **Jilin University**, *School of International and Public Affairs (SIPA)*<br>
 Changchun, China <br>
 *Bachelor in Law, Diplomacy* <br>
-2021 <br>
+2021 <br></p>
 <hr>
 
 ## RESEARCH INTERESTS
