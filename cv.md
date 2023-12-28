@@ -82,3 +82,5 @@ Microsoft Office, C, C++, SPSS, Social Media Platform Operations
 <br><br>
 **Language** <br>
 Chinese (Proficient), English (Proficient), German(Good) <br>
+<hr>
+[Download my resume here.](https://x-zhu01.github.io/documents/cv xudong zhu.pdf)
