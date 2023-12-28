@@ -4,4 +4,3 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-# Test

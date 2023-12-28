@@ -4,5 +4,4 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## TEST
 
