@@ -1,7 +1,9 @@
 ---
-layout: page
-permalink: /blogs/hohenzollern/index.html
 title: 游霍亨索伦城堡随想
+author: Xudong Zhu
+date: 2019-08-08 11:33:00 +0800
+tags: [游记]
+layout: blog
 ---
 [English Version](https://xudong-zhu01.github.io/blogs/hohenzollern_en)
 
