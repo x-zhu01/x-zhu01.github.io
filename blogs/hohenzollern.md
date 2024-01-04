@@ -3,7 +3,7 @@ layout: page
 permalink: /blogs/hohenzollern/index.html
 title: 游霍亨索伦城堡随想
 ---
-[English Version](https://x-zhu01.github.io/blogs/hohenzollern_en)
+[English Version](https://xudong-zhu01.github.io/blogs/hohenzollern_en)
 
 <br>*发布于：31.12.2023*
 

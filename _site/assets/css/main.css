@@ -4,7 +4,7 @@ audio:not([controls]){display:none;height:0;}
 [hidden]{display:none;}
 @font-face {
   font-family: "SF-Pro";
-  src: url("https://x-zhu01.github.io/assets/fonts/SF-Pro.ttf");
+  src: url("https://xudong-zhu01.github.io/assets/fonts/SF-Pro.ttf");
 }
 html{font-family:SF-Pro;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 body{margin:0;}
@@ -47,7 +47,7 @@ table{border-collapse:collapse;border-spacing:0;margin-bottom:1.5em;}
 .clearfix{*zoom:1;}.clearfix:before,.clearfix:after{display:table;content:"";}
 .clearfix:after{clear:both;}
 .unstyled-list{list-style:none;margin-left:0;padding-left:0;}.unstyled-list li{list-style-type:none;}
-@font-face{font-family:"SF-Pro";src:url("https://x-zhu01.github.io/assets/fonts/SF-Pro.ttf");}@font-face{font-family:"SF-Pro";src:url("https://x-zhu01.github.io/assets/fonts/SF-Pro.ttf");}.ampersand-placeholder{font-family:SF-Pro;}
+@font-face{font-family:"SF-Pro";src:url("https://xudong-zhu01.github.io/assets/fonts/SF-Pro.ttf");}@font-face{font-family:"SF-Pro";src:url("https://xudong-zhu01.github.io/assets/fonts/SF-Pro.ttf");}.ampersand-placeholder{font-family:SF-Pro;}
 .breakword{word-wrap:break-word;}
 .normal-wrap{word-wrap:normal;}
 .inherit-wrap{word-wrap:auto;}

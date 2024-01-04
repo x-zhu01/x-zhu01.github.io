@@ -10,15 +10,15 @@ owner:
   avatar: 1.png
   # bio: Xudong holds a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universität Heidelberg.
   email: xudong.zhu01@gmail.com
-  cv: https://x-zhu01.github.io/documents/cv xudong zhu.pdf
+  cv: https://xudong-zhu01.github.io/documents/cv xudong zhu.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
-  #github: GuangLun2000
+  #twitter: 
+  #github: 
   linkedin: xudong-zhu-457bb3220
-  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  #scholar: 
+  #researchgate: 
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -77,9 +77,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: xudongzhu
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/27 by Xudong Zhu.
+# Latest update in 03/01/2024 by Xudong Zhu.

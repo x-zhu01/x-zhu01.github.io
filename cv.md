@@ -8,18 +8,18 @@ title: CV
 Master’s student at the Ruprecht-Karls-Universität Heidelberg<br>
 Born in Shaanxi, China on 18.06.1999<br>
 E-Mail: xudong.zhu@alumni.uni-heidelberg.de<br>
-Website: https://x-zhu01.github.io/<br>
+Website: https://xudong-zhu01.github.io/<br>
 <hr>
 
 ### EDUCATION
 **Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies (HCA)*  <br> 
 Heidelberg, Germany <br>
-*M.A. in American Studies, Political Science and History*<br>
+**M.A. in American Studies**, *Political Science and History*<br>
 2023
 <br><br>
 **Jilin University**, *School of International and Public Affairs (SIPA)*<br>
 Changchun, China <br>
-*Bachelor in Law, Diplomacy* <br>
+**Bachelor in Law**, *Diplomacy* <br>
 2021 <br>
 <hr>
 
@@ -83,4 +83,4 @@ Microsoft Office, C, C++, SPSS, Social Media Platform Operations
 **Language** <br>
 Chinese (Proficient), English (Proficient), German(Good) <br>
 <hr>
-[Download my resume here.](https://x-zhu01.github.io/documents/cv xudong zhu.pdf)
+[Download my resume here.](https://xudong-zhu01.github.io/documents/cv xudong zhu.pdf)

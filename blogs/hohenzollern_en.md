@@ -4,7 +4,7 @@ permalink: /blogs/hohenzollern_en/index.html
 title: Reflections on a visit to Hohenzollern Castle (游霍亨索伦城堡随想)
 ---
 
-[中文版本 (Chinese Version)](https://x-zhu01.github.io/blogs/hohenzollern)
+[中文版本 (Chinese Version)](https://xudong-zhu01.github.io/blogs/hohenzollern)
 
 <br>*Published on: 31.12.2023*
 
