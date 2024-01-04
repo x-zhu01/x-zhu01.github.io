@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /blogs/hohenzollern_en/index.html
+tags: [Travels (游记)]
 title: Reflections on a visit to Hohenzollern Castle (游霍亨索伦城堡随想)
 ---
 
