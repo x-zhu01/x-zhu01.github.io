@@ -24,12 +24,16 @@
 
 </head>
 
-
 <body class="page" itemscope itemtype="http://schema.org/WebPage">
 
 {% include chrome-frame.html %}
 
 {% include navigation.html %}
+
+{% for tag in site.tags %}
+  Name: {{ tag | first }},
+  count: {{ tag | last | size}}
+{% endfor %}
 
 {% if page.image.feature %}<div class="image-wrap">
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
@@ -39,8 +43,10 @@
   <div class="article-author-top">
     {% include author-bio.html %}
   </div>
-  {% include post_tags.html %}
-  <article itemscope itemtype="http://schema.org/CreativeWork">
+<!-- Show All tags -->
+{% include all_tags.html %}
+<hr>
+<article itemscope itemtype="http://schema.org/CreativeWork">
   {% comment %}
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
