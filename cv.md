@@ -4,7 +4,7 @@ permalink: /cv/index.html
 title: CV
 ---
 
-# Xudong Zhu
+## Xudong Zhu
 Master’s student at the Ruprecht-Karls-Universität Heidelberg<br>
 Born in Shaanxi, China on 18.06.1999<br>
 E-Mail: xudong.zhu@alumni.uni-heidelberg.de<br>

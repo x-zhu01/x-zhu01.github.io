@@ -5,12 +5,12 @@ title: Teaching
 ---
 
 ## Teaching Assignment
-### From Washington to Peking: History of the Early Interactions Between the United States and China
-Ruprecht-Karls-Universität Heidelberg, Heidelberg Center for American Studies (HCA)<br><br>
+**From Washington to Peking: History of the Early Interactions Between the United States and China**<br><br>
+Ruprecht-Karls-Universität Heidelberg, Heidelberg Center for American Studies (HCA)<br>
 Time: Monday, 18:00 - 20:00<br>
-Venue: Oculus, Heidelberg Center for American Studies (Hauptstraße 120)<br><br>
-Summer term, 2023<br>
-#### Schedule and Readings
+Venue: Oculus, Heidelberg Center for American Studies (Hauptstraße 120)<br>
+Summer term, 2023<br><br>
+**Schedule and Readings**<br><br>
 • **Session 1 (Apr. 17): Empress of China: The Beginning of Sino-US
 Relations and Trade**<br>
 Swift, John W., P. Hodgkinson, and Samuel W. Woodhouse. “The Voyage

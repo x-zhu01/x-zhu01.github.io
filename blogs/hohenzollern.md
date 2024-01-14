@@ -1,13 +1,13 @@
 ---
-title: 游霍亨索伦城堡随想
-author: Xudong Zhu
-date: 2023-12-31 11:33:00 +0800
-tags: [游记]
 layout: blog
+permalink: /blogs/hohenzollern/index.html
+title: 游霍亨索伦城堡随想
+tags: [Travel(游记)]
+
 ---
 [English Version](/blogs/hohenzollern_en)
 
-<br>*发布于：31.12.2023*
+<br>发布于：31.12.2023
 
 ## 游霍亨索伦城堡随想
 

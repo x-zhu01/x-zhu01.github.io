@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## WELCOME!
+### WELCOME!
 <img src="https://xudong-zhu01.github.io/2.png" class="floatpic" width="360" height="480">
 Here is **Xudong Zhu(朱旭东)**
 <br>
@@ -10,7 +10,22 @@ I hold a Master of Arts (MA) in American Studies from Ruprecht-Karls-Universitä
 <br>
 <hr>
 
-## EDUCATION
+### NEWS and UPDATES
+
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024.**<br>
+<hr>
+
+### RESEARCH INTERESTS
+
+- Historical Statecraft
+- Realpolitik and Grand Strategy
+- Great Power Competition
+- Sino-US Relations
+- Geopolitics
+<br>
+<hr>
+
+### EDUCATION
 
 **Ruprecht-Karls-Universität Heidelberg**, *Heidelberg Center for American Studies (HCA)*<br> 
 Heidelberg, Germany <br>
@@ -21,22 +36,6 @@ Heidelberg, Germany <br>
 Changchun, China <br>
 **Bachelor in Law**, *Diplomacy* <br>
 2021 <br>
-<hr>
-
-## RESEARCH INTERESTS
-
-- Historical Statecraft
-- Realpolitik and Grand Strategy
-- Great Power Competition
-- Sino-US Relations
-- Geopolitics
-
-<br>
-<hr>
-
-## NEWS and UPDATES
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024.**<br>
 <hr>
 
 ![Desktop View](images/wk.png)

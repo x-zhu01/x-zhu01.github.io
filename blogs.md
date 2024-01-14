@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
