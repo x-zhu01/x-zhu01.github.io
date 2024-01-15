@@ -1,70 +1,106 @@
-<!-- It is not recommended to modify this code, unless you are a Pro-->
-<!-- Lastly modified by Xudong Zhu in 03/01/2024 -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+  >
 
-<meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-{% if site.owner.twitter %}<!-- Twitter Card and Open Graph meta -->
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
-<meta name="twitter:creator" content="@{{ site.owner.twitter }}">
-{% if page.layout == 'photo' %}
-<meta name="twitter:card" content="photo">
-{% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image.feature }}">{% endif %}
-{% else %}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">{% endif %}
-<meta property="og:type" content="article">
-<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">
-{% endif %}
-<meta property="og:locale" content="en_US">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:site_name" content="{{ site.title }}">
+  {%- capture seo_tags -%}
+    {% seo title=false %}
+  {%- endcapture -%}
 
-{% if site.google_verify %}<!-- Webmaster Tools verfication -->
-<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
-{% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
+  <!-- Setup Open Graph image -->
 
-{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-<link rel="canonical" href="{{ canonical }}">
-{% if site.owner.google_plus %}<link rel="author" href="{{ site.owner.google_plus }}?rel=author">{% endif %}
+  {% if page.image %}
+    {% assign src = page.image.path | default: page.image %}
 
+    {% unless src contains '://' %}
+      {%- capture img_url -%}
+        {% include img-url.html src=src img_path=page.img_path %}
+      {%- endcapture -%}
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+      {%- capture old_url -%}{{ src | absolute_url }}{%- endcapture -%}
+      {%- capture new_url -%}{{ img_url }}{%- endcapture -%}
 
+      {% assign seo_tags = seo_tags | replace: old_url, new_url %}
+    {% endunless %}
 
-<!-- Google Webfonts -->
-<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+  {% elsif site.social_preview_image %}
+    {%- capture img_url -%}
+      {% include img-url.html src=site.social_preview_image %}
+    {%- endcapture -%}
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous" />
+    {%- capture og_image -%}
+      <meta property="og:image" content="{{ img_url }}" />
+    {%- endcapture -%}
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
+    {% assign old_meta_clip = '<meta name="twitter:card"' %}
+    {% assign new_meta_clip = og_image | append: old_meta_clip %}
+    {% assign seo_tags = seo_tags | replace: old_meta_clip, new_meta_clip %}
+  {% endif %}
 
-<!--[if (lt IE 9) & (!IEMobile)]>
-<link rel="stylesheet" href="/assets/css/ie.css">
-<![endif]-->
+  {{ seo_tags }}
 
-<meta http-equiv="cleartype" content="on">
+  <title>
+    {%- unless page.layout == 'home' -%}
+      {{ page.title | append: ' | ' }}
+    {%- endunless -%}
+    {{ site.title }}
+  </title>
 
-<!-- Load Modernizr -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha512-3n19xznO0ubPpSwYCRRBgHh63DrV+bdZfHK52b1esvId4GsfwStQNPJFjeQos2h3JwCmZl0/LgLxSKMAI55hgw==" crossorigin="anonymous"></script>
+  {% include_cached favicons.html %}
 
-<!-- 16x16 -->
-<link rel="shortcut icon" href="https://xudong-zhu01.github.io/images/favicons/android-chrome-512x512.png">
-<!-- 32x32 -->
-<link rel="shortcut icon" href="https://xudong-zhu01.github.io/images/favicons/android-chrome-512x512.png">
-<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="https://xudong-zhu01.github.io/images/favicons/android-chrome-512x512.png">
-<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://xudong-zhu01.github.io/images/favicons/android-chrome-512x512.png">
-<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://xudong-zhu01.github.io/images/favicons/android-chrome-512x512.png">
-<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://xudong-zhu01.github.io/images/favicons/android-chrome-512x512.png">
+  {% if site.resources.ignore_env != jekyll.environment and site.resources.self_hosted %}
+    <link href="{{ site.data.origin[type].webfonts | relative_url }}" rel="stylesheet">
+
+  {% else %}
+    {% for cdn in site.data.origin[type].cdns %}
+      <link rel="preconnect" href="{{ cdn.url }}" {{ cdn.args }}>
+      <link rel="dns-prefetch" href="{{ cdn.url }}" {{ cdn.args }}>
+    {% endfor %}
+
+    <link rel="stylesheet" href="{{ site.data.origin[type].webfonts | relative_url }}">
+  {% endif %}
+
+  <!-- GA -->
+  {% if jekyll.environment == 'production' and site.google_analytics.id != empty and site.google_analytics.id %}
+    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+  {% endif %}
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="{{ site.data.origin[type].bootstrap.css | relative_url}}">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="{{ site.data.origin[type].fontawesome.css | relative_url }}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/:THEME.css' | replace: ':THEME', site.theme | relative_url }}">
+
+  {% if site.toc and page.toc %}
+    <link rel="stylesheet" href="{{ site.data.origin[type].toc.css | relative_url }}">
+  {% endif %}
+
+  {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'home' %}
+    <link rel="stylesheet" href="{{ site.data.origin[type]['lazy-polyfill'].css | relative_url }}">
+  {% endif %}
+
+  {% if page.layout == 'page' or page.layout == 'post' %}
+    <!-- Manific Popup -->
+    <link rel="stylesheet" href="{{ site.data.origin[type].magnific-popup.css | relative_url }}">
+  {% endif %}
+
+  <!-- JavaScript -->
+
+  {% unless site.theme_mode %}
+    {% include mode-toggle.html %}
+  {% endunless %}
+
+  {% include metadata-hook.html %}
+</head>
